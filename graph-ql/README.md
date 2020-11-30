@@ -1,13 +1,15 @@
-## Graphql microservice wrapper
+# Graphql microservice wrapper
 
 A [GraphQL](https://graphql.org) server written with [akka-http](https://github.com/akka/akka-http), [circe](https://github.com/circe/circe) and [sangria](https://github.com/sangria-graphql/sangria) used to wrap services for the ai trading solution.
 
-###Requirements  
+##Requirements
+
 Java 8+
 Scala
 Sbt
 
-###Getting Started
+##Getting Started  
+
 Install the dependencies with:  
 ```bash
 sbt
