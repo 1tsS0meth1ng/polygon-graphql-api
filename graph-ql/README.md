@@ -4,9 +4,9 @@ A [GraphQL](https://graphql.org) server written with [akka-http](https://github.
 
 ### Requirements
 
-Java 8+
-Scala
-Sbt
+Java 8+. 
+Scala. 
+Sbt. 
 
 ### Getting Started  
 
